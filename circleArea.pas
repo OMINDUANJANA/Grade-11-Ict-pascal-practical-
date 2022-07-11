@@ -1,5 +1,5 @@
 program circle (input,output);
-var radious : integer;
+var radius : integer;
 var area
 begin
   write("Enter Radius");
