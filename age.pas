@@ -5,7 +5,7 @@ begin
  writeln ("Enter Your Age");
  readln (age);
  if age >=18 Then 
- writeln ("You Are And Adult");
+ writeln ("You Are An Adult");
  Else
- writeln ("You Are And Child");
+ writeln ("You Are a Child");
 end.
