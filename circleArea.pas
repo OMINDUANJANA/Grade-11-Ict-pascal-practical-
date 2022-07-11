@@ -1,6 +1,6 @@
 program circle (input,output);
 var radius : integer;
-var area
+var area : real
 begin
   write("Enter Radius");
   read (radius);
